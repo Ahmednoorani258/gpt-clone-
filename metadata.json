@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini ChatGPT Clone",
+  "description": "A fully functional replica of the ChatGPT interface, powered by Google's Gemini API for advanced conversational AI. This application features a familiar, intuitive chat layout with a sidebar for conversation management and a real-time message display that supports streaming responses.",
+  "requestFramePermissions": []
+}
